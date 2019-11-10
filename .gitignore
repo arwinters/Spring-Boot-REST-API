@@ -14,6 +14,10 @@ target/
 *.iws
 *.iml
 *.ipr
+*.log
+*.gz
+target/
+lib/
 
 ### NetBeans ###
 nbproject/private/
